@@ -17,6 +17,5 @@ Sou um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de so
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-## "O que é verdadeiro irá prosperar" - Jahseh Onfroy
+“Se te oferecem um lugar em um foguete, não pergunte qual é o assento, apenas embarque.”
 
