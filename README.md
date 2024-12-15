@@ -1,7 +1,7 @@
 Olá! 👋 Seja bem-vindo ao meu GitHub!
 Sou um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de software. Atualmente, estou cursando Gestão de Sistemas de Informação e Desenvolvimento de Sistemas, combinando teoria e prática para aprimorar minhas habilidades.
 
-# Software Developer 👨‍💻
+# WEB Developer 👨‍💻
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/11974470877)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/llukas_marks)
