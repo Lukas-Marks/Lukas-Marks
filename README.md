@@ -26,5 +26,6 @@ Sou um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de so
 ## Banco de dados
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 “Se te oferecem um lugar em um foguete, não pergunte qual é o assento, apenas embarque.”
 
