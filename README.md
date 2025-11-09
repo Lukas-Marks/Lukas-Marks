@@ -1,8 +1,15 @@
-Olá! 👋 Seja bem-vindo ao meu GitHub!
-Sou um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de software. Atualmente, estou cursando Gestão de Sistemas de Informação e Desenvolvimento de Sistemas, combinando teoria e prática para aprimorar minhas habilidades.
+# 👋 Olá! Seja muito bem-vindo ao meu GitHub!
 
-# Software Engineering Student 👨‍💻
+Sou **Lucas Marques**, um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de software. Minha jornada acadêmica é marcada por dedicação e evolução constante:
 
+🎓 Atualmente estou cursando:
+- **Gestão da Tecnologia da Informação** — em fase final, faltando apenas o trabalho de conclusão.
+- **Desenvolvimento de Sistemas (ETEC)** — finalizando agora, com foco em lógica, programação e projetos práticos.
+- **Engenharia de Software** — em andamento, com previsão de conclusão em 3 anos.
+
+💡 Ao longo dessa trajetória, venho combinando teoria e prática para construir soluções eficientes, explorando áreas como desenvolvimento web, back-end, banco de dados, cloud computing e blockchain.
+
+---
 
 ## Front-End
 
@@ -41,6 +48,15 @@ Sou um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de so
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## Blockchain & Criptomoedas 
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3-dot-js&logoColor=white)
 
 
 ## 🌐 Conecte-se comigo
