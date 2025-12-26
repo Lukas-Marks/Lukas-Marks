@@ -2,9 +2,9 @@
 
 Sou **Lucas Marques**, um entusiasta de tecnologia e estudante apaixonado por desenvolvimento de software. Minha jornada acadêmica é marcada por dedicação e evolução constante:
 
-🎓 Atualmente estou cursando:
+🎓 Atualmente eu:
 - **Gestão da Tecnologia da Informação** — em fase final, faltando apenas o trabalho de conclusão.
-- **Desenvolvimento de Sistemas (ETEC)** — finalizando agora, com foco em lógica, programação e projetos práticos.
+- **Desenvolvimento de Sistemas (ETEC)** — Finalizei, com foco em lógica, programação e projetos práticos.
 - **Engenharia de Software** — em andamento, com previsão de conclusão em 3 anos.
 
 💡 Ao longo dessa trajetória, venho combinando teoria e prática para construir soluções eficientes, explorando áreas como desenvolvimento web, back-end, banco de dados, cloud computing e blockchain.
