@@ -17,20 +17,41 @@ Currently working as a **Middle Office Intern at Santander Asset Management**, d
 
 ## 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" />
+</p>
 
-### Tools & Technologies
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-003366?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,java,spring,php,laravel" />
+</p>
 
----
+## 🔐 Cripto & Blockchain
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,bitcoin,web3" />
+</p>
+
+## 🛠️ Infra & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux" />
+</p>
+
+## 🗄️ Bancos de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
+
+## 🤖 Inteligência Artificial
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+## 🧰 Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman, " />
+  
+</p>
 
 ## 📌 Featured Projects
 
