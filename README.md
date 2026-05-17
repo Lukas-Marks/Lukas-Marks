@@ -19,7 +19,7 @@ Currently working as a **Middle Office Intern at Santander Asset Management**, d
 
 ## 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,react,nextjs,vue,tailwind,bootstrap" />
 </p>
 
 ## ⚙️ Backend
